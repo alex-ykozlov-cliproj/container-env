@@ -1,5 +1,7 @@
 # container-env
 
+THis is a sample repo how to set ENV for the container execution from podman build CLI 
+
 Dockerfile:
 ```
 FROM ubuntu:18.04
